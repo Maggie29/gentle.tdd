@@ -1,0 +1,22 @@
+{
+  "name": "gentle.tdd",
+  "version": "1.0.0",
+  "description": "Ejercicio de TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "text"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maggie29/gentle.tdd.git"
+  },
+  "keywords": [
+    "tdd"
+  ],
+  "author": "Maggie Zambrano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maggie29/gentle.tdd/issues"
+  },
+  "homepage": "https://github.com/Maggie29/gentle.tdd#readme"
+}
